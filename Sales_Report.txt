@@ -1,0 +1,11 @@
+SALES REPORT
+------------------------------------
+Total Items Sold: 11
+Total Revenue: ₹540
+Best-Selling Item: apple
+
+Sales Breakdown:
+- apple: sold 5, revenue ₹250
+- banana: sold 2, revenue ₹60
+- orange: sold 3, revenue ₹150
+- grapes: sold 1, revenue ₹80

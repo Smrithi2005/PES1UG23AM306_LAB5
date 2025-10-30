@@ -1,0 +1,12 @@
+INVENTORY SUMMARY REPORT
+------------------------------------
+Total Unique Items: 5
+Total Quantity in Stock: 37
+Average Stock per Item: 7.4
+
+Items in Stock:
+- apple: 15
+- banana: 3
+- orange: 7
+- mango: 0
+- grapes: 12

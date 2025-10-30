@@ -1,0 +1,8 @@
+ISSUE ANALYSIS REPORT
+------------------------------------
+Total Issues Found: 3
+
+Details:
+- Low stock alert: banana has only 3 left.
+- Low stock alert: mango has only 0 left.
+- Out of stock: mango is depleted.
